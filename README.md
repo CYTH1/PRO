@@ -29,13 +29,13 @@ Facebook file cracking tool working for all countries
 
 ### Update tools 
 
-      cd random
+      cd PRO
 
       git pull
 
       ls
 
-      python run.py
+      python run1.py
 
 ### My Sosia media
 
