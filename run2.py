@@ -13,7 +13,7 @@ import requests
 bit = platform.architecture()[0]
 if bit == '64bit':
     print("\n\x1b[1;92m Congratulations ! Your Device Support This Tool")
-    from DUMPER import main
+    from DUMP import main
     main_menu()
 elif bit == '32bit':
     print("\x1b[1;91mSorry Brother Your Mobile Not Support This Tools")
